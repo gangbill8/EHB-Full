@@ -2412,3 +2412,10 @@ section {
   margin: 2rem;
   text-align: center;
 }
+
+@media (max-width: 991px) {
+  .footer .footer-top .footer-info .logo span {
+    font-size: 15px;
+    
+  }
+}
