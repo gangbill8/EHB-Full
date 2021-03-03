@@ -194,7 +194,12 @@ section {
   font-family: "Nunito", sans-serif;
   margin-top: 3px;
 }
-
+@media (max-width: 991px) {
+  .header .logo span {
+    font-size: 15px;
+    
+  }
+}
 /*--------------------------------------------------------------
 # Navigation Menu
 --------------------------------------------------------------*/
